@@ -1,6 +1,5 @@
 #ifndef _TVECTOR_H_
 #define _TVECTOR_H_
-
 #include <iostream>
 
 using namespace std;
